@@ -1,0 +1,3 @@
+{"data": "{\"event_id\": \"ord-1\", \"event_type\": \"order_created\", \"event_source\": \"shop\", \"event_timestamp\": \"2026-10-13T10:00:00Z\", \"order_id\": 1, \"amount\": 25.5}", "attributes": {"schema_version": "1"}, "message_id": "1001"}
+{"data": "{\"order_id\": 2, \"status\": \"paid\"}", "attributes": {"event_type": "order_paid", "event_id": "ord-2-paid"}, "message_id": "1002"}
+{"data": "texto que no es json", "attributes": {}, "message_id": "1003"}
